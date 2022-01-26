@@ -36,3 +36,4 @@ I also created a pie chart which shows all years with international arrivals in 
 
 ![dashboard output](https://user-images.githubusercontent.com/71915516/151229485-347f079b-8818-4fd4-b85d-b5c95fd9a0cc.png)
 
+In conclusion, it appears that the severity of earthquakes in greece has been decreasing. It also appears that the frequency of earthquakes seems to be increasing, while at the same time tourist arrivals are increasing, meaning that the earthquakes have not had an impact on tourism at all. The finding of earthquakes doubling in frequency during December and January also could have an effect, as the tourism season is from May to September which conveniently dodges those more dnagerous months. A more thorough statistical analysis is needed to determine a more accurate conclusion but since this was a data visualization project, I can cocnlude that based on these findings tourism is not impacted by earthquakes in Greece.
