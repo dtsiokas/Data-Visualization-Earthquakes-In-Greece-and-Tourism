@@ -1,4 +1,4 @@
-# Earthquakes-In-Greece-and-Tourism
+# Data Visualization Project: Earthquakes in Greece and Tourism
 
 In this project, I visualized the relationship between Earthquakes in Greece and Tourism to see if I could gain any insights on the data as well as see if the natural disasters have had any effect on whether or not people would still visit this beautiful country. I analyzed over one century of data which accounts for every earthquake that has ever occured in Greece from 1900 to 2020. I also compared the data to tourist arrivals in Greece from 1995 to 2019. 
 
